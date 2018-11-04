@@ -1,5 +1,5 @@
 {
-    "name": "yasinkuyu/omnipay-iyzico",
+    "name": "kaankilic/omnipay-iyzipay",
     "type": "library",
     "description": "Iyzico gateway for Omnipay payment processing library",
     "keywords": [
@@ -12,7 +12,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/yasinkuyu/omnipay-iyzico",
+    "homepage": "https://github.com/kaankilic/omnipay-iyzipay",
     "license": "MIT",
     "authors": [
         {
